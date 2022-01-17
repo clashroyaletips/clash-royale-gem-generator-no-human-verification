@@ -1,0 +1,1 @@
+# clash-royale-gem-generator-no-human-verification
